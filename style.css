@@ -1,0 +1,23 @@
+body {
+	background-color: lavender;
+	font-family: monospace;
+	font-size: 14px;
+	text-align: center;
+}
+
+div {
+	margin:20px 10px;
+}
+
+.sale-banner {
+	background-color: pink;
+}
+
+.item-container {
+	display: inline-block;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
